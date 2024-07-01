@@ -32,3 +32,21 @@
 }
 
 ```
+
+### vs code extensions
+
+- Prettier - Code formatter
+- Auto Rename Tag
+- Bracket Pair Color DLW
+- ES7 React/Redux/GraphQL/React-Native snip
+- Github Blue
+- Highlight Matching Tag
+- HTML to CSS autocompletion
+- indent-rainbow
+- MDX
+- Moonlight
+- Night Owl
+- vscode-icons
+- vscode-styled-components
+
+

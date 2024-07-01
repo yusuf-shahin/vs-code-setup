@@ -33,7 +33,7 @@
 
 ```
 
-### vs code extensions
+## vs code extensions
 
 - Prettier - Code formatter
 - Auto Rename Tag
@@ -48,5 +48,6 @@
 - Night Owl
 - vscode-icons
 - vscode-styled-components
+- Tailwind CSS IntelliSense
 
 

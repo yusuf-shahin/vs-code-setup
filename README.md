@@ -1,5 +1,15 @@
 # vs-code-setup
 
+#### change your user setting.json setup and build the coding experience more easy and enjoyable....
+
+### How can you do that as beginner ?
+- open your vs-code
+- press Ctrl+Shift+P
+- go to Open User Setting
+- remove all stuff from setting.json
+- copy the code and paste
+- install vs code extensions 
+
 ```js
 
   {
@@ -32,6 +42,7 @@
 }
 
 ```
+##### If you want then you can easily change the setup as per your convenience :)
 
 ## vs code extensions
 

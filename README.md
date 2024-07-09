@@ -8,11 +8,11 @@
 - go to Open User Setting
 - remove all stuff from setting.json
 - copy the code and paste
-- install vs code extensions 
+- install vs code extensions
+  
 
 ```js
-
-  {
+{
   "editor.fontSize": 17,
   "files.autoSave": "off",
   "editor.tabSize": 1,
@@ -21,6 +21,8 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
+
+  "emmet.triggerExpansionOnTab": true,
   "editor.minimap.enabled": true,
   "prettier.jsxSingleQuote": true,
   "prettier.semi": true,
@@ -28,20 +30,43 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
+  "editor.cursorBlinking": "expand",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.cursorBlinking": "expand",
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "left": {
+        "custom": {
+          "borderWidth": "0 0 0 1px",
+          "borderStyle": "solid",
+          "borderColor": "yellow",
+          "borderRadius": "5px"
+        }
+      },
+      "right": {
+        "custom": {
+          "borderWidth": "0 1px 0 0",
+          "borderStyle": "solid",
+          "borderColor": "yellow",
+          "borderRadius": "5px"
+        }
+      }
+    }
+  },
+  "markdown-preview-enhanced.previewTheme": "moonlight",
+  "git.enableSmartCommit": true,
+  "markdown.preview.fontSize": 16,
+  "editor.guides.bracketPairs": true,
   "window.zoomLevel": 2,
-  "workbench.colorTheme": "Night Owl (No Italics)",
   "workbench.iconTheme": "vscode-icons",
-  "workbench.settings.applyToAllProfiles": [
-    
-  ]
+  "vsicons.presets.foldersAllDefaultIcon": true,
+  "workbench.colorTheme": "Night Owl (No Italics)"
 }
-
 ```
+
+
 ##### If you want then you can easily change the setup as per your convenience :)
 
 ## vs code extensions

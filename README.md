@@ -1,6 +1,6 @@
-# vs-code-setup
+# 🔥 vs-code-setup 🔥
 
-#### change your user setting.json setup and build the coding experience more easy and enjoyable....
+#### change your user setting.json setup and build the coding experience more easy and enjoyable.... ☺️
 
 ### How can you do that as beginner ?
 - open your vs-code
@@ -67,13 +67,15 @@
 ```
 
 
-##### If you want then you can easily change the setup as per your convenience :)
+##### If you want then you can easily change the setup as per your convenience 😄
 
-## vs code extensions
+##  Importent vs-code extensions :-
 
-- Prettier - Code formatter
+- Prettier - Code formatter 
 - Auto Rename Tag
 - Bracket Pair Color DLW
+- Better Comments
+- Css Peek
 - ES7 React/Redux/GraphQL/React-Native snip
 - Github Blue
 - Highlight Matching Tag

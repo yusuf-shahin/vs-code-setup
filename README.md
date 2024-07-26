@@ -58,7 +58,7 @@
   "markdown-preview-enhanced.previewTheme": "moonlight",
   "git.enableSmartCommit": true,
   "markdown.preview.fontSize": 16,
-  "editor.guides.bracketPairs": true,
+  // "editor.guides.bracketPairs": true,
   "window.zoomLevel": 2,
   "workbench.iconTheme": "vscode-icons",
   "vsicons.presets.foldersAllDefaultIcon": true,

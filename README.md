@@ -78,7 +78,7 @@
     },
     {
       "tag": "?",
-      "color": "#FE828C", //? Marking Sign
+      "color": "#FFB6C1", //? Debugging Sign
       "strikethrough": false,
       "underline": false,
       "backgroundColor": "transparent",
@@ -87,7 +87,7 @@
     },
     {
       "tag": "//",
-      "color": "#55988F", //// Corss the Code
+      "color": "#064832", //// corss code
       "strikethrough": true,
       "underline": false,
       "backgroundColor": "transparent",

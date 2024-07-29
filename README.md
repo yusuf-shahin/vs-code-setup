@@ -1,12 +1,13 @@
-#  Personal Visual Studio Code setup 🏗️
+#  Personal Visual Studio Code (vs-code) setup 🏗️
 
 #### change your user setting.json setup and build the coding experience more easy and enjoyable.... ☺️
 
-### How can you do that as beginner ?
+### How can you do that as a beginner ?
 - open your vs-code
 - press Ctrl+Shift+P
 - go to Open User Setting
-- remove all stuff from setting.json
+- **Or directly go to settings.json file** 
+- remove all your previous stuff from **settings.json** in your vs-code .
 - copy the code and paste
 - install vs code extensions
   
@@ -127,13 +128,13 @@
 - Better Comments
 - Css Peek
 - ES7 React/Redux/GraphQL/React-Native snip
-- Github Blue
+- Github Blue (vs-code theme)
 - Highlight Matching Tag
 - HTML to CSS autocompletion
 - indent-rainbow
 - MDX
-- Moonlight
-- Night Owl
+- Moonlight (vs-code theme)
+- Night Owl (vs-code theme)
 - vscode-icons
 - vscode-styled-components
 - Tailwind CSS IntelliSense

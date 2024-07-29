@@ -4,14 +4,13 @@
 
 ### How can you do that as a beginner ?
 - open your vs-code
-- press Ctrl+Shift+P
-- go to Open User Setting
-- **Or directly go to settings.json file** 
-- remove all your previous stuff from **settings.json** in your vs-code .
-- copy the code and paste
-- install vs code extensions
-  
+- go to your *settings.json* file in your vs-code .
+- remove all your previous stuff from *settings.json* in your vs-code .
+- copy and paste the following codes into your *settings.json* file
 
+ **please install vs-code extensions below.** ⬇️
+  
+👉 *settings.json* code 👈
 ```js
 {
   "editor.fontSize": 17,
@@ -120,7 +119,7 @@
 
 ##### If you want then you can easily change the setup as per your convenience 😄
 
-##  Importent vs-code extensions :-
+## 🥂 Importent vs-code extensions for developer 🥂
 
 - Prettier - Code formatter 
 - Auto Rename Tag

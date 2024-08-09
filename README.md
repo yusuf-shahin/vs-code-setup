@@ -26,7 +26,7 @@
   "editor.minimap.enabled": true,
   "prettier.jsxSingleQuote": true,
   "prettier.semi": true,
-  "prettier.singleQuote": true,
+  "prettier.singleQuote": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
@@ -39,7 +39,7 @@
     "opening": {
       "left": {
         "custom": {
-          "borderWidth": "0 0 0 1px",
+          "borderWidth": "0 0 0 1.5px",
           "borderStyle": "solid",
           "borderColor": "yellow",
           "borderRadius": "5px"
@@ -47,7 +47,7 @@
       },
       "right": {
         "custom": {
-          "borderWidth": "0 1px 0 0",
+          "borderWidth": "0 1.5px 0 0",
           "borderStyle": "solid",
           "borderColor": "yellow",
           "borderRadius": "5px"
@@ -55,21 +55,24 @@
       }
     }
   },
-  "markdown-preview-enhanced.previewTheme": "moonlight",
+  "markdown-preview-enhanced.previewTheme": "Night Owl (No Italics)",
   "git.enableSmartCommit": true,
   "markdown.preview.fontSize": 16,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": false,
   "window.zoomLevel": 2,
   "workbench.iconTheme": "vscode-icons",
-  "vsicons.presets.foldersAllDefaultIcon": true,
-  "workbench.colorTheme": "Night Owl (No Italics)"
+  "vsicons.presets.foldersAllDefaultIcon": false,
+  "workbench.colorTheme": "Night Owl (No Italics)",
+  "git.openRepositoryInParentFolders": "never",
+  "security.workspace.trust.untrustedFiles": "open",
+
   "better-comments.multilineComments": true,
   "better-comments.highlightPlainText": true,
   "better-comments.tags": [
     {
       "tag": "!",
-      "color": "#FF007F", //! Danger Sign
+      "color": "#FF007F", //! Alart Sign
       "strikethrough": false,
       "underline": false,
       "backgroundColor": "transparent",
@@ -78,7 +81,7 @@
     },
     {
       "tag": "?",
-      "color": "#FFB6C1", //? Debugging Sign
+      "color": "#AFDCEC", //? Highlighter Sign
       "strikethrough": false,
       "underline": false,
       "backgroundColor": "transparent",
@@ -87,8 +90,8 @@
     },
     {
       "tag": "//",
-      "color": "#064832", //// corss code
-      "strikethrough": true,
+      "color": "#064832", //// Unnecessary Code Sign
+      "strikethrough": false,
       "underline": false,
       "backgroundColor": "transparent",
       "bold": false,
@@ -96,7 +99,7 @@
     },
     {
       "tag": "#",
-      "color": "#008080", //# basic general note
+      "color": "#008080", //# Basic general note Sign
       "strikethrough": false,
       "underline": false,
       "backgroundColor": "transparent",
@@ -105,7 +108,7 @@
     },
     {
       "tag": "*",
-      "color": "#8EBF91", //* important note
+      "color": "#8EBF91", //* Important note
       "strikethrough": false,
       "underline": false,
       "backgroundColor": "transparent",
@@ -114,6 +117,7 @@
     }
   ]
 }
+
 ```
 
 

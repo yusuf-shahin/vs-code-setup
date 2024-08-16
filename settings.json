@@ -67,7 +67,7 @@
     },
     {
       "tag": "?",
-      "color": "#AFDCEC", //? Highlighter Sign
+      "color": "#AFDCDF", //? Highlighter Sign
       "strikethrough": false,
       "underline": false,
       "backgroundColor": "transparent",

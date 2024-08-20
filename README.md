@@ -70,7 +70,7 @@
   "better-comments.multilineComments": true,
   "better-comments.highlightPlainText": true,
   "better-comments.tags": [
-    {
+   {
       "tag": "!",
       "color": "#FF007F", //! Alart Sign
       "strikethrough": false,
@@ -81,7 +81,7 @@
     },
     {
       "tag": "?",
-      "color": "#AFDCEC", //? Highlighter Sign
+      "color": "#A0DADA", //? Highlighter Sign
       "strikethrough": false,
       "underline": false,
       "backgroundColor": "transparent",
@@ -90,7 +90,7 @@
     },
     {
       "tag": "//",
-      "color": "#064832", //// Unnecessary Code Sign
+      "color": "#065C52", //// Unnecessary code and node Sign
       "strikethrough": false,
       "underline": false,
       "backgroundColor": "transparent",
@@ -108,8 +108,17 @@
     },
     {
       "tag": "*",
-      "color": "#8EBF91", //* Important note
+      "color": "#8EBF91", //* function note sign
       "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "-",
+      "color": "#737373", //- corss code sign
+      "strikethrough": true,
       "underline": false,
       "backgroundColor": "transparent",
       "bold": false,

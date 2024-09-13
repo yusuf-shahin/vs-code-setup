@@ -1,8 +1,8 @@
 #  Personal Visual Studio Code (vs-code) setup 🏗️
 
-#### change your user setting.json setup and build the coding experience more easy and enjoyable.... ☺️
+#### change your user setting.json setup and build the coding experience more easy and enjoyable.... 🤠
 
-### How can you do that as a beginner ?
+### How can you do that as a beginner ❓
 - open your vs-code
 - go to your *settings.json* file in your vs-code .
 - remove all your previous stuff from *settings.json* in your vs-code .
@@ -10,7 +10,7 @@
 
  **please install vs-code extensions below.** ⬇️
   
-👉 *settings.json* code 
+👉 __*settings.json*__ code :- 
 ```js
 {
   "editor.fontSize": 17,
@@ -133,21 +133,21 @@
 
 ##### If you want then you can easily change the setup as per your convenience 😄
 
-## 🥂 Importent vs-code extensions for developer 🥂
+## Importent vs-code extensions for developer 🥂
 
-- Prettier - Code formatter 🩹
-- Auto Rename Tag 🛺
-- Bracket Pair Color DLW 🌈
-- Better Comments 🥦
-- Css Peek 🦆
-- ES7 React/Redux/GraphQL/React-Native snip :electron:
-- Highlight Matching Tag 🧮
-- HTML to CSS autocompletion ✂️
-- indent-rainbow 🌈
-- MDX 🏳️
-- Night Owl (vs-code theme) 🦉
-- vscode-icons 🔋
-- vscode-styled-components 🪶
-- Tailwind CSS IntelliSense 🪓
+- Prettier - Code formatter   🩹
+- Auto Rename Tag   ⛓️
+- Bracket Pair Color DLW   🌈
+- Better Comments   🥦
+- Css Peek   🦆
+- ES7 React/Redux/GraphQL/React-Native snip   :electron:
+- Highlight Matching Tag   🧮
+- HTML to CSS autocompletion   🛺
+- indent-rainbow   🌈
+- MDX   🏳️
+- Night Owl (vs-code theme)   🦉
+- vscode-icons   🔋
+- vscode-styled-components   🤠
+- Tailwind CSS IntelliSense   🪓
 
 

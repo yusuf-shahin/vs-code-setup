@@ -56,7 +56,7 @@
     }
   },
   "markdown-preview-enhanced.previewTheme": "Night Owl (No Italics)",
-  "git.enableSmartCommit": true,
+  // "git.enableSmartCommit": true,
   "markdown.preview.fontSize": 16,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": false,
@@ -70,7 +70,7 @@
   "better-comments.multilineComments": true,
   "better-comments.highlightPlainText": true,
   "better-comments.tags": [
-   {
+    {
       "tag": "!",
       "color": "#FF007F", //! Alart Sign
       "strikethrough": false,
@@ -116,8 +116,8 @@
       "italic": false
     },
     {
-      "tag": "-",
-      "color": "#737373", //- corss code sign
+      "tag": "_",
+      "color": "#737373", //_ corss code sign
       "strikethrough": true,
       "underline": false,
       "backgroundColor": "transparent",
@@ -126,6 +126,7 @@
     }
   ]
 }
+
 
 ```
 

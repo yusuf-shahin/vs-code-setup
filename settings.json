@@ -42,7 +42,7 @@
     }
   },
   "markdown-preview-enhanced.previewTheme": "Night Owl (No Italics)",
-  "git.enableSmartCommit": true,
+  // "git.enableSmartCommit": true,
   "markdown.preview.fontSize": 16,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": false,
@@ -67,7 +67,7 @@
     },
     {
       "tag": "?",
-      "color": "#AFDCDF", //? Highlighter Sign
+      "color": "#A0DADA", //? Highlighter Sign
       "strikethrough": false,
       "underline": false,
       "backgroundColor": "transparent",
@@ -76,7 +76,7 @@
     },
     {
       "tag": "//",
-      "color": "#064832", //// Unnecessary Code Sign
+      "color": "#065C52", //// Unnecessary code and node Sign
       "strikethrough": false,
       "underline": false,
       "backgroundColor": "transparent",
@@ -94,8 +94,17 @@
     },
     {
       "tag": "*",
-      "color": "#8EBF91", //* Important note
+      "color": "#8EBF91", //* function note sign
       "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "_",
+      "color": "#737373", //_ corss code sign
+      "strikethrough": true,
       "underline": false,
       "backgroundColor": "transparent",
       "bold": false,

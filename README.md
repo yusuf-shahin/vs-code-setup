@@ -10,7 +10,7 @@
 
  **please install vs-code extensions below.** ⬇️
   
-👉 *settings.json* code 👈
+👉 *settings.json* code 
 ```js
 {
   "editor.fontSize": 17,
@@ -135,21 +135,19 @@
 
 ## 🥂 Importent vs-code extensions for developer 🥂
 
-- Prettier - Code formatter 
-- Auto Rename Tag
-- Bracket Pair Color DLW
-- Better Comments
-- Css Peek
-- ES7 React/Redux/GraphQL/React-Native snip
-- Github Blue (vs-code theme)
-- Highlight Matching Tag
-- HTML to CSS autocompletion
-- indent-rainbow
-- MDX
-- Moonlight (vs-code theme)
-- Night Owl (vs-code theme)
-- vscode-icons
-- vscode-styled-components
-- Tailwind CSS IntelliSense
+- Prettier - Code formatter 🩹
+- Auto Rename Tag 🛺
+- Bracket Pair Color DLW 🌈
+- Better Comments 🥦
+- Css Peek 🦆
+- ES7 React/Redux/GraphQL/React-Native snip :electron:
+- Highlight Matching Tag 🧮
+- HTML to CSS autocompletion ✂️
+- indent-rainbow 🌈
+- MDX 🏳️
+- Night Owl (vs-code theme) 🦉
+- vscode-icons 🔋
+- vscode-styled-components 🪶
+- Tailwind CSS IntelliSense 🪓
 
 

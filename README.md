@@ -136,18 +136,18 @@
 ## Importent vs-code extensions for developer 🥂
 
 - Prettier - Code formatter   🩹
-- Auto Rename Tag   ⛓️
-- Bracket Pair Color DLW   🌈
-- Better Comments   🥦
-- Css Peek   🦆
+- Auto Rename Tag   🛶
+- Bracket Pair Color DLW   🏕️
+- Better Comments   🕯️
 - ES7 React/Redux/GraphQL/React-Native snip   :electron:
-- Highlight Matching Tag   🧮
+- Highlight Matching Tag   ⚓
 - HTML to CSS autocompletion   🛺
 - indent-rainbow   🌈
 - MDX   🏳️
 - Night Owl (vs-code theme)   🦉
 - vscode-icons   🔋
-- vscode-styled-components   🤠
+- vscode-styled-components   🍬
 - Tailwind CSS IntelliSense   🪓
+-  Css Peek   🦆
 
 

@@ -1,6 +1,6 @@
 #  Personal vs-code (visual studio code)  setup 🏗️
 
-#### change your user setting.json setup and build the coding experience more easy and enjoyable.... 🤠
+#### Let's build the coding experience more easy and enjoyable.... 🤠
 
 ### How can you do that as a beginner ❓
 - open your vs-code

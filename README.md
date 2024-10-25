@@ -25,7 +25,7 @@
   "emmet.triggerExpansionOnTab": true,
   "editor.minimap.enabled": true,
   "prettier.jsxSingleQuote": true,
-  "prettier.semi": true,
+  "prettier.semi": false,
   "prettier.singleQuote": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.formatOnPaste": true,
@@ -117,8 +117,17 @@
     },
     {
       "tag": "_",
-      "color": "#737373", //_ corss code sign
-      "strikethrough": true,
+      "color": "#000", //_ box sign
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "#cacaff",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "@",
+      "color": "#34ffac", //@ target sign
+      "strikethrough": false,
       "underline": false,
       "backgroundColor": "transparent",
       "bold": false,
@@ -126,6 +135,7 @@
     }
   ]
 }
+
 
 
 ```

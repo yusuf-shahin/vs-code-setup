@@ -1,4 +1,4 @@
-#  Personal Visual Studio Code (vs-code) setup 🏗️
+#  Personal vs-code (visual studio code)  setup 🏗️
 
 #### change your user setting.json setup and build the coding experience more easy and enjoyable.... 🤠
 

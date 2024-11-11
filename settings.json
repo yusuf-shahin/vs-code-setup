@@ -94,7 +94,7 @@
     },
     {
       "tag": "*",
-      "color": "#8EBF91", //* function note sign
+      "color": "#A0D0AD", //* function sign
       "strikethrough": false,
       "underline": false,
       "backgroundColor": "transparent",
@@ -112,9 +112,9 @@
     },
     {
       "tag": "@",
-      "color": "#34ffac", //@ target sign
       "strikethrough": false,
       "underline": false,
+      "color": "#00b56a", //@ explanation inside function sign
       "backgroundColor": "transparent",
       "bold": false,
       "italic": false

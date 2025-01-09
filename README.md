@@ -39,7 +39,7 @@
     "opening": {
       "left": {
         "custom": {
-          "borderWidth": "0 0 0 1.5px",
+          "borderWidth": "0 0 0 1.9px",
           "borderStyle": "solid",
           "borderColor": "yellow",
           "borderRadius": "5px"
@@ -47,7 +47,7 @@
       },
       "right": {
         "custom": {
-          "borderWidth": "0 1.5px 0 0",
+          "borderWidth": "0 1.9px 0 0",
           "borderStyle": "solid",
           "borderColor": "yellow",
           "borderRadius": "5px"
@@ -133,8 +133,10 @@
       "bold": false,
       "italic": false
     }
-  ]
+  ],
+  "liveServer.settings.donotShowInfoMsg": true
 }
+
 
 ```
 
